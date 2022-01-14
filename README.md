@@ -3,11 +3,9 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+ProBot é uma landing-page web construída durante a video aula da professora  **Rafaella Ballerini**, video organizado pela [Rafaella Ballerini](https://www.rafaballerini.tech/ "Site da Rafaella").
 
-ProBot é uma landing-page web construída durante a video aula da professora  **Rafaella Ballerini**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste em uma landing-page, onde um bot para discord que faz moderação, e traz segurança para sua comunidade.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
@@ -22,17 +20,13 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 # Tecnologias utilizadas
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- HTML
+- CSS
 
 
 # Como executar o projeto
 
 ## Front end web
-Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
@@ -42,6 +36,7 @@ git clone https://github.com/fprocaci/probot.git
 probot
 
 # abrir o arquivo index.html no navegador
+index.html
 ```
 
 # Autor
