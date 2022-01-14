@@ -7,22 +7,15 @@ ProBot é uma landing-page web construída durante a video aula da professora  *
 
 A aplicação consiste em uma landing-page, onde um bot para discord que faz moderação, e traz segurança para sua comunidade.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/fprocaci/probot/blob/master/assets/web.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Web 2](https://github.com/fprocaci/probot/blob/master/assets/web2.png)
 
 # Tecnologias utilizadas
 ## Front end
 - HTML
 - CSS
-
 
 # Como executar o projeto
 
