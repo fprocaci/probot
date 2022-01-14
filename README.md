@@ -18,7 +18,6 @@ A aplicação consiste em uma landing-page, onde um bot para discord que faz mod
 - CSS
 
 # Como executar o projeto
-
 ## Front end web
 
 ```bash
