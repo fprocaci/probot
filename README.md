@@ -1,6 +1,6 @@
 # ProBot
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/github/license/fprocaci/probot?label=license)](https://github.com/fprocaci/probot/blob/master/LICENSE) 
+
 
 # Sobre o projeto
 
