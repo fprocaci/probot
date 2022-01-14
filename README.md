@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-ProBot é uma landing-page web construída durante a video aula da professora  **Rafaella Ballerini**, video organizado pela [Rafaella Ballerini](https://www.rafaballerini.tech/ "Site da Rafaella").
+ProBot é uma landing-page web construída durante a video aula da professora  **Rafaella Ballerini**, video organizado pela [Rafaella Ballerini](https://www.rafaballerini.tech/ "Site da Rafaella"). 
 
 A aplicação consiste em uma landing-page, onde um bot para discord que faz moderação, e traz segurança para sua comunidade.
 
